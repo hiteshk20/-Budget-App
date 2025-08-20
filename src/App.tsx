@@ -96,7 +96,7 @@ const App: React.FC = () => {
             investments, setInvestments,
             strings
         }}>
-            <div className="flex flex-col h-screen font-sans text-gray-800 dark:text-gray-200">
+            <div className="flex flex-col h-screen font-sans text-gray-800 dark:text-gray-200 bg-gray-50 dark:bg-gray-900">
                 <main className="flex-1 overflow-y-auto pb-20">
                     {renderView()}
                 </main>
