@@ -1,0 +1,5 @@
+{
+  "name": "Family Budget App",
+  "description": "A comprehensive application for managing family income, expenses, and investments. It provides a dashboard, detailed tracking for income and expenses, an investment wizard, and reporting capabilities. The app is multilingual, supporting both Hindi and English.",
+  "requestFramePermissions": []
+}
